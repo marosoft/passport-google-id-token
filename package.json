@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jmreyes/passport-google-id-token.git"
+    "url": "git://github.com/marosoft/passport-google-id-token.git"
   },
   "bugs": {
-    "url": "http://github.com/jmreyes/passport-google-id-token/issues"
+    "url": "http://github.com/marosoft/passport-google-id-token/issues"
   },
   "author": {
     "name": "Juan Manuel Reyes",
